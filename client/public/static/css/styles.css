@@ -1,0 +1,9 @@
+#progress .bar {
+    height: 4px !important;
+    background: red !important;
+}
+
+.nav a:hover{
+    cursor: pointer;
+    border-radius: 0px;
+}
